@@ -15,9 +15,7 @@ Instructions:
 # Week 1
 
 TODO:
- - I have an idea, want to implement ....... desccription
-   - Description step 1 (optionaly)
-   - Description step ... (optionaly)
+ -I want to create a chatbot that will help students learn more about some college programs
  - ...
  
 WIP:
