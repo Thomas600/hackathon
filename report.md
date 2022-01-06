@@ -16,30 +16,19 @@ Instructions:
 
 TODO:
  -I want to create a chatbot that will help students learn more about some college programs
- - ...
+ - The bot should be able to answer in french as well as in english
+ 
  
 WIP:
- - In this moment  ....... desccription
-   - Description step 1 (optionaly)
-   - Description step ... (optionaly)
+ -User can choose the language of its choice (english or french) by typing french or english in the text bar.
  - ... 
 
 Done:
  - I got results of my research,  ....... desccription
-   - as you can see .... desccription (optionaly)
-
-
-![loss](https://www.researchgate.net/publication/328160550/figure/fig2/AS:679664251068416@1539055993187/Epoch-vs-Loss-Graphs.ppm) (optionaly)
-
-
- - I got results of my research,  ....... desccription
-   - ... (optionaly)
- - ...
+   
 
 Issues:
-- It's not working, I need a help!  ....... desccription
-- ...  
-
+- I'm trying to understand how DF Framework works
 
 # Week 2
 ....
