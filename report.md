@@ -21,17 +21,31 @@ TODO:
  
 WIP:
  -User can choose the language of its choice (english or french) by typing french or english in the text bar.
- - ... 
+
 
 Done:
- - I got results of my research,  ....... desccription
+ -/
    
 
 Issues:
 - I'm trying to understand how DF Framework works
 
 # Week 2
-....
+TODO:
+ - QA about different master programs
+ 
+ 
+WIP:
+ -Finishing the basic features of the bot, such as answering 1 turn question on programs available at the university. 
+ -Being able to switch language between each question.
+
+Done:
+ -Basic features such as answering 1 turn question on programs available at the university. 
+   
+
+Issues:
+- I'm still trying to understand how DF Framework works
+
 
 # Week 3
 ....
