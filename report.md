@@ -48,7 +48,19 @@ Issues:
 
 
 # Week 3
-....
+TODO:
+ - Implementing HuggingFace as recommended
+ 
+ 
+WIP:
+ -Implement HuggigFace using pretrained transformer models.
+ -Training those models to improve user experience and permits the chatbot to focus on education related subjects.
+
+Done:
+ -Using Huggingface 
+   
+
+
 
 # Week 4
 ....
