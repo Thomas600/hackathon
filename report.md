@@ -57,7 +57,7 @@ WIP:
  -Training those models to improve user experience and permits the chatbot to focus on education related subjects.
 
 Done:
- -Using Huggingface 
+ -Using Huggingface's pretrained models
    
 
 
