@@ -63,4 +63,6 @@ Done:
 
 
 # Week 4
-....
+TODO:
+ - i will use the Django Framework in order to be able to use the chatbot on a dedicated webpage
+ - I might consider using chatbotAI
